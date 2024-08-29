@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Dashboard_2">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Dashboard_2" data-name="Dashboard – 2" clip-path="url(#clip-Dashboard_2)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="bg-banner" transform="translate(-120.001 95)">
+      <path id="Path_62" data-name="Path 62" d="M-65-116H1855V794.393L-65,964Z" transform="translate(185 21)" fill="#e9f1ff"/>
+      <g id="Group_10035" data-name="Group 10035" transform="translate(220 -70)">
+        <rect id="Rectangle_171" data-name="Rectangle 171" width="745" height="716" rx="174" transform="translate(1219.002 -49.258) rotate(-21.972)" fill="#e1edff"/>
+        <rect id="Rectangle_172" data-name="Rectangle 172" width="593.799" height="570.685" rx="127" transform="translate(1316.292 -10.163) rotate(-21.972)" fill="#cedef7"/>
+        <rect id="Rectangle_173" data-name="Rectangle 173" width="465.913" height="447.777" rx="105" transform="translate(1398.593 22.903) rotate(-21.972)" fill="#c0d3f0"/>
+      </g>
+      <g id="Group_10034" data-name="Group 10034" transform="translate(220)" opacity="0.5">
+        <rect id="Rectangle_174" data-name="Rectangle 174" width="227.84" height="225.738" rx="58.701" transform="translate(-101.276 430.999) rotate(38.24)" fill="#e1edff"/>
+        <rect id="Rectangle_175" data-name="Rectangle 175" width="176.588" height="174.959" rx="39.765" transform="translate(-96.864 466.803) rotate(38.24)" fill="#cedef6"/>
+        <rect id="Rectangle_176" data-name="Rectangle 176" width="132.605" height="131.382" rx="30.297" transform="translate(-93.078 497.527) rotate(38.24)" fill="#c0d3f0"/>
+      </g>
+    </g>
+  </g>
+</svg>

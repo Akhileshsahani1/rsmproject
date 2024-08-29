@@ -1,0 +1,461 @@
+.invalid-feedback {
+    display: block;
+}
+body[data-leftbar-theme="dark"] .side-nav .menuitem-active > a {
+    color: #fff !important;
+    background: #403ad7;
+}
+body[data-leftbar-theme="dark"] .side-nav .side-nav-link {
+    color: #05264e;
+    font-weight: 600;
+}
+.page-item.active .page-link {
+    z-index: 3;
+    color: #fff;
+    background-color: #403ad7;
+    border-color: #403ad7;
+}
+a {
+    color: #403ad7;
+    text-decoration: none;
+}
+a:hover{
+    color: #2621c0;
+    text-decoration: none;
+}
+.tilebox-one i {
+    color: #403ad7;
+}
+body[data-leftbar-theme="dark"] .side-nav .side-nav-link:hover,
+body[data-leftbar-theme="dark"] .side-nav .side-nav-link:focus,
+body[data-leftbar-theme="dark"] .side-nav .side-nav-link:active {
+    color: #05264e;
+}
+
+body[data-leftbar-theme="dark"] .side-nav .side-nav-second-level li a:focus,
+body[data-leftbar-theme="dark"] .side-nav .side-nav-second-level li a:hover,
+body[data-leftbar-theme="dark"] .side-nav .side-nav-third-level li a:focus,
+body[data-leftbar-theme="dark"] .side-nav .side-nav-third-level li a:hover,
+body[data-leftbar-theme="dark"] .side-nav .side-nav-forth-level li a:focus,
+body[data-leftbar-theme="dark"] .side-nav .side-nav-forth-level li a:hover {
+    color: #000;
+}
+body[data-leftbar-theme="dark"] .side-nav .side-nav-second-level li a,
+body[data-leftbar-theme="dark"] .side-nav .side-nav-third-level li a,
+body[data-leftbar-theme="dark"] .side-nav .side-nav-forth-level li a {
+    color: #05264e;
+}
+body[data-leftbar-theme="dark"][data-leftbar-compact-mode="condensed"]
+    .side-nav
+    .side-nav-item:hover
+    .side-nav-link {
+    background-color: #403ad7;
+    color: #fff !important;
+}
+body[data-leftbar-compact-mode="condensed"]:not(.authentication-bg)
+    .side-nav
+    .side-nav-item:hover
+    > .collapse
+    > ul
+    a:hover,
+body[data-leftbar-compact-mode="condensed"]:not(.authentication-bg)
+    .side-nav
+    .side-nav-item:hover
+    > .collapsing
+    > ul
+    a:hover {
+    background-color: #403ad7;
+    color: #fff !important;
+}
+.dropdown-menu.dashboard-filter-dropdown.show {
+    transform: translate(0px, 40px) !important;
+    min-width: 8.09rem !important;
+}
+body[data-leftbar-compact-mode="condensed"]:not(.authentication-bg) .side-nav .collapse .side-nav-second-level li{
+background-color: #403ad7;
+}
+body[data-leftbar-compact-mode="condensed"]:not(.authentication-bg) .side-nav .collapse .side-nav-second-level li a{
+    color: #fff !important;
+    }
+.date-width {
+    max-width: 150px;
+    margin-left: 13px;
+}
+.tilebox-one .card-body {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1rem 1rem;
+}
+.label-small {
+    padding-bottom: 0px;
+    font-size: 90%;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+table#basic-datatable {
+    font-size: 13px;
+}
+.bg-nav-pills {
+    background-color: #222222;
+}
+
+.nav-tabs > li > a,
+.nav-pills > li > a {
+    color: #fff;
+    font-weight: 600;
+}
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+    color: #000;
+    background-color: #46d4d1;
+}
+.bg-skin {
+    background-color: #ef947a;
+}
+.bg-blue {
+    background-color: #403ad7;
+}
+.btn-primary {
+    color: #fff !important;
+    background-color: #403ad7;
+    border-color: #403ad7;
+    font-size: 15px;
+    border-radius: 4px;
+    padding: 7px 20px;
+}
+.btn-primary {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #2621c0;
+    border-color: #2621c0;
+}
+.btn-check:checked + .btn-primary:focus,
+.btn-check:active + .btn-primary:focus,
+.btn-primary:active:focus,
+.btn-primary.active:focus,
+.show > .btn-primary.dropdown-toggle:focus {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.btn-check:checked + .btn-primary,
+.btn-check:active + .btn-primary,
+.btn-primary:active,
+.btn-primary.active,
+.show > .btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #2621c0;
+    border-color: #2621c0;
+}
+.btn-check:focus + .btn-primary,
+.btn-primary:focus {
+    color: #fff;
+    background-color: #2621c0;
+    border-color: #2621c0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+table#basic-datatable > thead > tr > th {
+    background-color: #403ad7 !important;
+}
+.auth-fluid .auth-fluid-form-box {
+    background-color: #ffffff;
+}
+.custom-skill li {
+    list-style-type: none;
+    margin-bottom: 10px;
+    line-height: 22px;
+}
+.custom-skill li.skill-li {
+    background-color: #403ad7;
+    margin-right: 10px;
+    color: #fff;
+    padding: 2px 15px;
+    font-size: 13px;
+    border-radius: 4px;
+        float: left;
+}
+.custom-skill li.skill-li span {
+    position: relative;
+    left: 8px;
+    top: -1px;
+}
+.view_applicant .card-header {
+    background-color: #403ad7;
+    padding: 15px;
+    height: 100px;
+    border-radius: 8px 8px 0 0;
+    position: relative;
+}
+.view_applicant .card-header img {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 15px;
+    left: 15px;
+    border: 4px solid #fff;
+    border-radius: 100px;
+}
+.view_applicant .card-body {
+    padding: 35px 20px;
+    border: 1px solid #ccc;
+    border-top: none;
+    border-radius: 0 0 8px 8px;
+    position: relative;
+}
+.view_applicant .jobtitle {
+    font-size: 22px;
+    margin-bottom: 5px;
+}
+.view_applicant .companyname {
+    color: #495a61;
+    font-weight: 500;
+    font-size: 14px;
+}
+.cta-button {
+    margin-top: 15px;
+}
+.view_applicant .JobPosted .postedago {
+    font-size: 13px;
+    color: #676e76;
+    font-weight: 400;
+}
+.appliant_details .card-body {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 15px 20px;
+    background: #fff;
+}
+.skill-badge {
+    margin: 10px 0 15px 0;
+  }
+  .skill-badge .badge {
+    border-radius: 50px;
+    font-size: 12px;
+    padding: 5px 10px;
+  }
+  .badge-outline {
+    color: #6b7da5;
+    background-color: transparent;
+    border: 1px solid #6b7da5;
+  }
+  .page-title {
+    font-size: 20px;
+    font-weight: 700;
+    color: #05264e;
+    margin-bottom: 20px;
+}
+.JobList {
+    background: #fff;
+    border-radius: 12px;
+    margin-bottom: 25px;
+    padding: 20px;
+    border: 1px solid #dddddd;
+    position: relative;
+}
+.box-content {
+    position: relative;
+    padding-left: 68px;
+    min-height: 51px;
+}
+.company-logo img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 55px;
+    -webkit-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+.location-group p {
+    margin-bottom: 0;
+    color: #777;
+    margin-top: 2px;
+}
+.location-group h6 {
+    margin: 3px 0 0 0;
+    color: #777;
+    font-weight: 400;
+    font-size: 13px;
+}
+.location, .openingtotal, .salary {
+    font-size: 13px;
+    color: #05264e;
+    font-weight: 500;
+    margin-right: 30px;
+}
+.text-muted {
+    color: #777 !important;
+}
+.job-description p {
+    font-size: 13px;
+    font-weight: 400;
+    color: #42474e;
+    margin-bottom: 0;
+}
+.eployee-contact {
+    display: flex;
+    margin: 10px 0 12px 0;
+}
+.app-openingtotal {
+    font-size: 13px;
+    color: #3a3a3a;
+    font-weight: 400;
+    margin-right: 30px;
+}
+.app-openingtotal i {
+    margin-right: 5px;
+}
+.posted-on {
+    margin: 0;
+}
+.openingtotal img {
+    width: 15px;
+}
+.salary img {
+    width: 12px;
+}
+.C_Overview {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.C_Overview h4 {
+    color: #222;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.C_Overview .CompanyJob {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.C_Overview .CompanyJob .thumb-image {
+    margin-right: 10px;
+    border-radius: 12px;
+    padding: 6px 10px;
+}
+.C_Overview .CompanyJob .CompanyJobDetails h5 {
+    font-size: 18px;
+    color: #111;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+.C_Overview .CompanyJob .CompanyJobDetails .openings span {
+    display: inline-block;
+    font-size: 13px;
+    margin-bottom: 5px;
+}
+.openings .location img {
+    width: 11px;
+}
+.edit-companany {
+    position: absolute;
+    text-align: center;
+    top: 20px;
+    right: 30px;
+}
+.btn-outline {
+    color: #fff;
+    border-color: #fff;
+    font-size: 15px;
+    border-radius: 4px;
+    padding: 7px 20px;
+    margin-bottom: 10px;
+}
+.btn-outline:hover {
+    color: #403ad7;
+    background-color: #fff;
+    border-color: #fff;
+}
+.btn-check:focus + .btn-outline,
+.btn-outline:focus {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.btn-check:checked + .btn-outline,
+.btn-check:active + .btn-outline,
+.btn-outline:active,
+.btn-outline.active,
+.btn-outline.dropdown-toggle.show {
+    color: #403ad7;
+    background-color: #fff;
+    border-color: #fff;
+}
+.btn-check:checked + .btn-outline:focus,
+.btn-check:active + .btn-outline:focus,
+.btn-outline:active:focus,
+.btn-outline.active:focus,
+.btn-outline.dropdown-toggle.show:focus {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.edit-companany p {
+    font-size: 13px;
+    color: #eee;
+}
+  @media (max-width: 767px) {
+    .page-title-box .page-title {
+        font-size: 18px;
+      }
+      .view_applicant .card-header {
+        height: 75px;
+    }
+    .view_applicant .card-header img {
+        width: 75px;
+        height: 75px;
+    }
+    .view_applicant .card-body {
+        padding: 20px 20px;
+    }
+    .view_applicant .jobtitle {
+        font-size: 18px;
+    }
+    .cta-button .btn {
+        font-size: 13px;
+        padding: 5px 8px;
+        margin-top: 5px;
+    }
+    .skill-badge .badge {
+        font-size: 11px;
+        margin-bottom: 5px;
+      }
+      .JobList h4 {
+        font-size: 15px;
+    }
+    .location-group h6 {
+        font-size: 12px;
+    }
+    .location-group h6 i {
+        font-size: 15px;
+    }
+    .location, .openingtotal, .salary {
+        font-size: 12px;
+    }
+    .openingtotal img {
+        width: 15px;
+    }
+    .page-title {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+    .eployee-contact {
+        margin: 15px 0 0 0;
+        display: grid;
+        padding-left: 68px;
+        position: relative;
+        top: -15px;
+    }
+    .app-openingtotal i {
+        margin-right: 0;
+    }
+    .edit-companany p {
+        display: none;
+    }
+  }
